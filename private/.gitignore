@@ -1,0 +1,4 @@
+*
+!backup_migrate
+!backup_migrate/*
+!.gitignore
